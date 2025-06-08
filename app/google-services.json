@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67065780619",
+    "project_id": "nevilwatch-218d5",
+    "storage_bucket": "nevilwatch-218d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67065780619:android:7b42eaf85eb310876b378e",
+        "android_client_info": {
+          "package_name": "com.example.nevil_watch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBT4AS45M84LlTsTibpFg164LqueOgkI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

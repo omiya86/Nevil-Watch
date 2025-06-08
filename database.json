@@ -1,0 +1,85 @@
+{
+  "watches": {
+    "classic1": {
+      "id": "classic1",
+      "name": "Classic Timepiece",
+      "brand": "Nevil",
+      "description": "A sophisticated timepiece that combines traditional craftsmanship with modern elegance.",
+      "price": 299.99,
+      "category": "classic",
+      "movement": "Automatic",
+      "waterResistance": "30M",
+      "powerReserve": "40 Hours",
+      "caseMaterial": "Stainless Steel"
+    },
+    "sport1": {
+      "id": "sport1",
+      "name": "Sport Chronograph",
+      "brand": "Nevil sport",
+      "description": "Built for performance and durability, perfect for active lifestyles.",
+      "price": 399.99,
+      "category": "sport",
+      "movement": "Quartz",
+      "waterResistance": "100M",
+      "powerReserve": "Battery Powered",
+      "caseMaterial": "Titanium"
+    },
+    "sport2": {
+      "id": "sport2",
+      "name": "Diver's Watch",
+      "brand": "Nevil sport",
+      "description": "Professional diving watch with exceptional water resistance.",
+      "price": 449.99,
+      "category": "sport",
+      "movement": "Automatic",
+      "waterResistance": "200M",
+      "powerReserve": "48 Hours",
+      "caseMaterial": "Stainless Steel"
+    },
+    "smart1": {
+      "id": "smart1",
+      "name": "Smart Series 1",
+      "brand": "Nevil",
+      "description": "Advanced smartwatch with comprehensive health and fitness tracking features.",
+      "price": 499.99,
+      "category": "smart",
+      "movement": "Digital",
+      "waterResistance": "50M",
+      "powerReserve": "5 Days",
+      "caseMaterial": "Aluminum"
+    }
+  },
+  "carts": {
+    "user123": {
+      "item1": {
+        "id": "item1",
+        "watchId": "classic1",
+        "userId": "user123",
+        "quantity": 1,
+        "price": 299.99,
+        "watchName": "Classic Timepiece",
+        "watchImage": "classic1"
+      },
+      "item2": {
+        "id": "item2",
+        "watchId": "sport1",
+        "userId": "user123",
+        "quantity": 2,
+        "price": 399.99,
+        "watchName": "Sport Chronograph",
+        "watchImage": "sport1"
+      }
+    },
+    "user456": {
+      "item3": {
+        "id": "item3",
+        "watchId": "smart1",
+        "userId": "user456",
+        "quantity": 1,
+        "price": 499.99,
+        "watchName": "Smart Series 1",
+        "watchImage": "smart1"
+      }
+    }
+  }
+} 

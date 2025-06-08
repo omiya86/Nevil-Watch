@@ -1,0 +1,123 @@
+{
+  "watches": {
+    "watch1": {
+      "brand": "Nevil",
+      "description": "Elegant chronograph watch with leather strap",
+      "id": "watch1",
+      "name": "Classic Chronograph",
+      "price": 1999.99
+    },
+    "watch10": {
+      "brand": "Nevil Tactical",
+      "description": "Shock-resistant military watch",
+      "id": "watch10",
+      "name": "Military Grade",
+      "price": 3299.99
+    },
+    "watch11": {
+      "brand": "Nevil Premium",
+      "description": "Open-heart skeleton design",
+      "id": "watch11",
+      "name": "Skeleton",
+      "price": 6999.99
+    },
+    "watch12": {
+      "brand": "Nevil Travel",
+      "description": "Dual timezone travel watch",
+      "id": "watch12",
+      "name": "GMT Master",
+      "price": 4599.99
+    },
+    "watch13": {
+      "brand": "Nevil Sport",
+      "description": "Ultralight carbon fiber case",
+      "id": "watch13",
+      "name": "Carbon Fiber",
+      "price": 5499.99
+    },
+    "watch14": {
+      "brand": "Nevil Exclusive",
+      "description": "Handcrafted limited edition",
+      "id": "watch14",
+      "name": "Artisan Limited",
+      "price": 8999.99
+    },
+    "watch15": {
+      "brand": "Nevil Precision",
+      "description": "COSC-certified chronometer",
+      "id": "watch15",
+      "name": "Chronometer Certified",
+      "price": 5199.99
+    },
+    "watch16": {
+      "brand": "Nevil Sport",
+      "description": "Hypoallergenic titanium watch",
+      "id": "watch16",
+      "name": "Titanium Elite",
+      "price": 4799.99
+    },
+    "watch17": {
+      "brand": "Nevil Classic",
+      "description": "Reissue of 1945 original design",
+      "id": "watch17",
+      "name": "Heritage 1945",
+      "price": 6499.99
+    },
+    "watch2": {
+      "brand": "Nevil Sport",
+      "description": "Water-resistant sports watch",
+      "id": "watch2",
+      "name": "Sport Edition",
+      "price": 3499.99
+    },
+    "watch3": {
+      "brand": "Nevil Premium",
+      "description": "24K gold-plated luxury watch",
+      "id": "watch3",
+      "name": "Luxury Gold",
+      "price": 5999.99
+    },
+    "watch4": {
+      "brand": "Nevil",
+      "description": "Sleek black dial with stainless steel band",
+      "id": "watch4",
+      "name": "Minimalist Black",
+      "price": 1999.99
+    },
+    "watch5": {
+      "brand": "Nevil Sport",
+      "description": "Professional diving watch (200m waterproof)",
+      "id": "watch5",
+      "name": "Diver Pro",
+      "price": 4499.99
+    },
+    "watch6": {
+      "brand": "Nevil Classic",
+      "description": "Vintage-inspired rose gold watch",
+      "id": "watch6",
+      "name": "Vintage Rose",
+      "price": 2799.99
+    },
+    "watch7": {
+      "brand": "Nevil Tech",
+      "description": "Bluetooth-enabled smartwatch",
+      "id": "watch7",
+      "name": "Smart Connect",
+      "price": 3999.99
+    },
+    "watch8": {
+      "brand": "Nevil Aviation",
+      "description": "Aviation-style watch with chronograph",
+      "id": "watch8",
+      "name": "Pilot Series",
+      "price": 3799.99
+    },
+    "watch9": {
+      "brand": "Nevil Premium",
+      "description": "Lunar phase complication watch",
+      "id": "watch9",
+      "name": "Moonphase",
+      "price": 4999.99
+    }
+  }
+}
